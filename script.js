@@ -13,5 +13,5 @@ function showNav(x) {
 
 }
 
-
+window.scrollTo(0,document.body.scrollTop);
 
