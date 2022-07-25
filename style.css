@@ -195,6 +195,6 @@ body, html {
   height: auto;
 }
 
-.topNav {
+.topNav a {
   font-size: 10%;
 }
