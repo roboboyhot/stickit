@@ -28,6 +28,7 @@ html {
   /*background-color: #007bbf;*/
   background-color: #008E02;
   transition-duration: 0.5s;
+  overflow: auto;
 }
 a {
   text-decoration: none;
