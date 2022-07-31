@@ -204,8 +204,8 @@ body, html {
 }
 
 .imageTable img {
-  width: auto;
-  height: 10%;
+  width: 50%;
+  height: auto;
 }
 
 .topNav a {
