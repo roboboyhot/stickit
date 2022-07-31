@@ -154,13 +154,14 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 0;
+  position: sticky;
 }
 
 
 .parallax1 {
   background-image: url('background.jpeg');
   height: 100%;
-
+  position: sticky;
 
   background-attachment: fixed;
   background-position: center;
@@ -178,6 +179,7 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 0;
+  position: sticky;
 }
 .pageTitle {
   font-family: 'Playfair Display', serif;
