@@ -213,8 +213,12 @@ body, html {
 }
 
 .imageTable img {
-  width: 50%;
+  width: 25%;
   height: auto;
+}
+
+.imageTable {
+  display: flex;
 }
 
 .topNav a {
